@@ -3,11 +3,11 @@ var authConfig = {
   roots: [
     {
       id: "0ABDphiRfywezUk9PVA",
-      name: "TeamDrive",
+      name: "Download Free",
       pass: "",
     },
     {
-      id: "0ABDphiRfywezUk9PVA",
+      id: "root",
       name: "PriveDrive",
       pass: "",
     },
